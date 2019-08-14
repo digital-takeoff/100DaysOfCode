@@ -14,3 +14,9 @@ Day 3:
 Problem from CodingBat - https://codingbat.com/prob/p171660
 
 only splitOdd10 method and supporting method available in Day3.java
+
+Day 4:
+
+Problem from CodeStepByStep - https://codestepbystep.com/problem/view/cpp/searching/binarySearch
+
+only binarySearch method and supporting method available in Day4.cpp
