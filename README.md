@@ -24,3 +24,8 @@ only binarySearch method and supporting method available in Day4.cpp
 Day 5: Happy 73 Independence Day India
 
 Indian Flag coded in python for day 5 using graphic.py library
+
+Day 7:
+Problem from Hacker Rank - https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+
+code available in Day7.cpp
