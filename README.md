@@ -29,3 +29,6 @@ Day 7:
 Problem from Hacker Rank - https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
 
 code available in Day7.cpp
+
+Day 9:
+Solution for two interview questions available in day9a.cpp and java files(BSTree.java,BTNode.java)
